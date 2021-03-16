@@ -1,0 +1,9 @@
+D:\Downloads\Compressed\Register Sims Source Code Visual Studio\Register Sims Source Code Visual Studio\RegisterSimsCS\RegisterSims3CC\bin\Debug\RegisterSimsCS.exe.config
+D:\Downloads\Compressed\Register Sims Source Code Visual Studio\Register Sims Source Code Visual Studio\RegisterSimsCS\RegisterSims3CC\bin\Debug\RegisterSimsCS.exe
+D:\Downloads\Compressed\Register Sims Source Code Visual Studio\Register Sims Source Code Visual Studio\RegisterSimsCS\RegisterSims3CC\bin\Debug\RegisterSimsCS.pdb
+D:\Downloads\Compressed\Register Sims Source Code Visual Studio\Register Sims Source Code Visual Studio\RegisterSimsCS\RegisterSims3CC\obj\Debug\RegisterSimsCS.csprojResolveAssemblyReference.cache
+D:\Downloads\Compressed\Register Sims Source Code Visual Studio\Register Sims Source Code Visual Studio\RegisterSimsCS\RegisterSims3CC\obj\Debug\RegisterSims3CC.mainUI.resources
+D:\Downloads\Compressed\Register Sims Source Code Visual Studio\Register Sims Source Code Visual Studio\RegisterSimsCS\RegisterSims3CC\obj\Debug\RegisterSimsCS.Properties.Resources.resources
+D:\Downloads\Compressed\Register Sims Source Code Visual Studio\Register Sims Source Code Visual Studio\RegisterSimsCS\RegisterSims3CC\obj\Debug\RegisterSimsCS.csproj.GenerateResource.Cache
+D:\Downloads\Compressed\Register Sims Source Code Visual Studio\Register Sims Source Code Visual Studio\RegisterSimsCS\RegisterSims3CC\obj\Debug\RegisterSimsCS.exe
+D:\Downloads\Compressed\Register Sims Source Code Visual Studio\Register Sims Source Code Visual Studio\RegisterSimsCS\RegisterSims3CC\obj\Debug\RegisterSimsCS.pdb
